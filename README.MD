@@ -60,4 +60,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-by [Wisecode](https://github.com/wisecoden)
+Feito by [Wisecode](https://github.com/wisecoden)
